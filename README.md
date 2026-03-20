@@ -3,7 +3,7 @@
 # NEXERCH
 
 **We build what the problem demands. Nothing less.**
-**Built for necessity. Verified for reality.**
+**We move at the speed the problem burns**
 
 ---
 
@@ -32,7 +32,7 @@ NEXERCH develops open standards for autonomous systems, formal verification, and
 |---|---|---|
 | ARVS Axiom Constitution v1.0 | Autonomous System Safety | Published |
 | ATLAS Flight Software Architecture | Reusable Launch Vehicles | Published |
-| K-Framework Uncertainty Protocol | Space Domain Awareness | Draft |
+| K-Framework Uncertainty Protocol | Space Domain Awareness | Published |
 | Multi-Agent Authority Standard | Distributed Autonomous Systems | Planned |
 
 ---
