@@ -2,7 +2,7 @@
 
 # NEXERCH
 
-**We build what the problem demands. Nothing more.**
+**We build what the problem demands. Nothing less.**
 **Built for necessity. Verified for reality.**
 
 ---
